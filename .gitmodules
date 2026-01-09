@@ -1,104 +1,104 @@
 [submodule "armyknife-session"]
-    path = armyknife-session
-    url = https://github.com/armyknifelabs-tools/armyknife-session
+	path = armyknife-session
+	url = https://github.com/armyknifelabs-tools/armyknife-session.git
     branch = master
 [submodule "armyknife-comp"]
-    path = armyknife-comp
-    url = https://github.com/armyknifelabs-tools/armyknife-comp
+	path = armyknife-comp
+	url = https://github.com/armyknifelabs-tools/armyknife-comp.git
     branch = master
 [submodule "armyknife-panel"]
-    path = armyknife-panel
-    url = https://github.com/armyknifelabs-tools/armyknife-panel
+	path = armyknife-panel
+	url = https://github.com/armyknifelabs-tools/armyknife-panel.git
     branch = master
 [submodule "armyknife-applets"]
-    path = armyknife-applets
-    url = https://github.com/armyknifelabs-tools/armyknife-applets
+	path = armyknife-applets
+	url = https://github.com/armyknifelabs-tools/armyknife-applets.git
     branch = master
 [submodule "armyknife-applibrary"]
-    path = armyknife-applibrary
-    url = https://github.com/armyknifelabs-tools/armyknife-applibrary
+	path = armyknife-applibrary
+	url = https://github.com/armyknifelabs-tools/armyknife-applibrary.git
     branch = master
 [submodule "armyknife-launcher"]
-    path = armyknife-launcher
-    url = https://github.com/armyknifelabs-tools/armyknife-launcher
+	path = armyknife-launcher
+	url = https://github.com/armyknifelabs-tools/armyknife-launcher.git
     branch = master
 [submodule "armyknife-settings"]
-    path = armyknife-settings
-    url = https://github.com/armyknifelabs-tools/armyknife-settings
+	path = armyknife-settings
+	url = https://github.com/armyknifelabs-tools/armyknife-settings.git
     branch = master
 [submodule "armyknife-settings-daemon"]
-    path = armyknife-settings-daemon
-    url = https://github.com/armyknifelabs-tools/armyknife-settings-daemon
+	path = armyknife-settings-daemon
+	url = https://github.com/armyknifelabs-tools/armyknife-settings-daemon.git
     branch = master
 [submodule "xdg-desktop-portal-armyknife"]
-    path = xdg-desktop-portal-armyknife
-    url = https://github.com/armyknifelabs-tools/xdg-desktop-portal-armyknife
+	path = xdg-desktop-portal-armyknife
+	url = https://github.com/armyknifelabs-tools/xdg-desktop-portal-armyknife.git
     branch = master
 [submodule "armyknife-osd"]
-    path = armyknife-osd
-    url = https://github.com/armyknifelabs-tools/armyknife-osd
+	path = armyknife-osd
+	url = https://github.com/armyknifelabs-tools/armyknife-osd.git
     branch = master
 [submodule "armyknife-bg"]
-    path = armyknife-bg
-    url = https://github.com/armyknifelabs-tools/armyknife-bg
+	path = armyknife-bg
+	url = https://github.com/armyknifelabs-tools/armyknife-bg.git
     branch = master
 [submodule "armyknife-workspaces"]
-    path = armyknife-workspaces
-    url = https://github.com/armyknifelabs-tools/armyknife-workspaces
+	path = armyknife-workspaces
+	url = https://github.com/armyknifelabs-tools/armyknife-workspaces.git
     branch = master
 [submodule "armyknife-notifications"]
-    path = armyknife-notifications
-    url = https://github.com/armyknifelabs-tools/armyknife-notifications
+	path = armyknife-notifications
+	url = https://github.com/armyknifelabs-tools/armyknife-notifications.git
     branch = master
 [submodule "armyknife-icons"]
-    path = armyknife-icons
-    url = https://github.com/armyknifelabs-tools/armyknife-icons
+	path = armyknife-icons
+	url = https://github.com/armyknifelabs-tools/armyknife-icons.git
     branch = master
 [submodule "armyknife-greeter"]
-    path = armyknife-greeter
-    url = https://github.com/armyknifelabs-tools/armyknife-greeter
+	path = armyknife-greeter
+	url = https://github.com/armyknifelabs-tools/armyknife-greeter.git
     branch = master
 [submodule "armyknife-screenshot"]
-    path = armyknife-screenshot
-    url = https://github.com/armyknifelabs-tools/armyknife-screenshot
+	path = armyknife-screenshot
+	url = https://github.com/armyknifelabs-tools/armyknife-screenshot.git
     branch = master
 [submodule "armyknife-edit"]
-    path = armyknife-edit
-    url = https://github.com/armyknifelabs-tools/armyknife-edit
+	path = armyknife-edit
+	url = https://github.com/armyknifelabs-tools/armyknife-edit.git
     branch = master
 [submodule "armyknife-term"]
-    path = armyknife-term
-    url = https://github.com/armyknifelabs-tools/armyknife-term
+	path = armyknife-term
+	url = https://github.com/armyknifelabs-tools/armyknife-term.git
     branch = master
 [submodule "armyknife-randr"]
-    path = armyknife-randr
-    url = https://github.com/armyknifelabs-tools/armyknife-randr
+	path = armyknife-randr
+	url = https://github.com/armyknifelabs-tools/armyknife-randr.git
     branch = master
 [submodule "armyknife-files"]
-    path = armyknife-files
-    url = https://github.com/armyknifelabs-tools/armyknife-files
+	path = armyknife-files
+	url = https://github.com/armyknifelabs-tools/armyknife-files.git
     branch = master
 [submodule "armyknife-store"]
-    path = armyknife-store
-    url = https://github.com/armyknifelabs-tools/armyknife-store
+	path = armyknife-store
+	url = https://github.com/armyknifelabs-tools/armyknife-store.git
     branch = master
 [submodule "armyknife-wallpapers"]
-    path = armyknife-wallpapers
-    url = https://github.com/armyknifelabs-tools/armyknife-wallpapers
+	path = armyknife-wallpapers
+	url = https://github.com/armyknifelabs-tools/armyknife-wallpapers.git
     branch = master
 [submodule "armyknife-idle"]
-    path = armyknife-idle
-    url = https://github.com/armyknifelabs-tools/armyknife-idle
+	path = armyknife-idle
+	url = https://github.com/armyknifelabs-tools/armyknife-idle.git
     branch = master
 [submodule "armyknife-player"]
-    path = armyknife-player
-    url = https://github.com/armyknifelabs-tools/armyknife-player
+	path = armyknife-player
+	url = https://github.com/armyknifelabs-tools/armyknife-player.git
     branch = master
 [submodule "armyknife-initial-setup"]
-    path = armyknife-initial-setup
-    url = https://github.com/armyknifelabs-tools/armyknife-initial-setup
+	path = armyknife-initial-setup
+	url = https://github.com/armyknifelabs-tools/armyknife-initial-setup.git
     branch = master
 [submodule "armyknife-launcher-backend"]
-    path = armyknife-launcher-backend
-    url = https://github.com/armyknifelabs-tools/armyknife-launcher-backend
+	path = armyknife-launcher-backend
+	url = https://github.com/armyknifelabs-tools/armyknife-launcher-backend.git
     branch = master
