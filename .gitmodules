@@ -1,108 +1,104 @@
-[submodule "cosmic-session"]
-    path = cosmic-session
-    url = https://github.com/pop-os/cosmic-session
+[submodule "armyknife-session"]
+    path = armyknife-session
+    url = https://github.com/armyknifelabs-tools/armyknife-session
     branch = master
-[submodule "cosmic-comp"]
-    path = cosmic-comp
-    url = https://github.com/pop-os/cosmic-comp
+[submodule "armyknife-comp"]
+    path = armyknife-comp
+    url = https://github.com/armyknifelabs-tools/armyknife-comp
     branch = master
-[submodule "cosmic-panel"]
-    path = cosmic-panel
-    url = https://github.com/pop-os/cosmic-panel
+[submodule "armyknife-panel"]
+    path = armyknife-panel
+    url = https://github.com/armyknifelabs-tools/armyknife-panel
     branch = master
-[submodule "cosmic-applets"]
-    path = cosmic-applets
-    url = https://github.com/pop-os/cosmic-applets
+[submodule "armyknife-applets"]
+    path = armyknife-applets
+    url = https://github.com/armyknifelabs-tools/armyknife-applets
     branch = master
-[submodule "cosmic-applibrary"]
-    path = cosmic-applibrary
-    url = https://github.com/pop-os/cosmic-applibrary
+[submodule "armyknife-applibrary"]
+    path = armyknife-applibrary
+    url = https://github.com/armyknifelabs-tools/armyknife-applibrary
     branch = master
-[submodule "cosmic-launcher"]
-    path = cosmic-launcher
-    url = https://github.com/pop-os/cosmic-launcher
+[submodule "armyknife-launcher"]
+    path = armyknife-launcher
+    url = https://github.com/armyknifelabs-tools/armyknife-launcher
     branch = master
-[submodule "simple-wrapper"]
-    path = simple-wrapper
-    url = https://github.com/pop-os/simple-wrapper
+[submodule "armyknife-settings"]
+    path = armyknife-settings
+    url = https://github.com/armyknifelabs-tools/armyknife-settings
     branch = master
-[submodule "cosmic-settings"]
-    path = cosmic-settings
-    url = https://github.com/pop-os/cosmic-settings
+[submodule "armyknife-settings-daemon"]
+    path = armyknife-settings-daemon
+    url = https://github.com/armyknifelabs-tools/armyknife-settings-daemon
     branch = master
-[submodule "cosmic-settings-daemon"]
-    path = cosmic-settings-daemon
-    url = https://github.com/pop-os/cosmic-settings-daemon
+[submodule "xdg-desktop-portal-armyknife"]
+    path = xdg-desktop-portal-armyknife
+    url = https://github.com/armyknifelabs-tools/xdg-desktop-portal-armyknife
     branch = master
-[submodule "xdg-desktop-portal-cosmic"]
-    path = xdg-desktop-portal-cosmic
-    url = https://github.com/pop-os/xdg-desktop-portal-cosmic.git
+[submodule "armyknife-osd"]
+    path = armyknife-osd
+    url = https://github.com/armyknifelabs-tools/armyknife-osd
     branch = master
-[submodule "cosmic-osd"]
-    path = cosmic-osd
-    url = https://github.com/pop-os/cosmic-osd.git
+[submodule "armyknife-bg"]
+    path = armyknife-bg
+    url = https://github.com/armyknifelabs-tools/armyknife-bg
     branch = master
-[submodule "cosmic-bg"]
-    path = cosmic-bg
-    url = https://github.com/pop-os/cosmic-bg.git
+[submodule "armyknife-workspaces"]
+    path = armyknife-workspaces
+    url = https://github.com/armyknifelabs-tools/armyknife-workspaces
     branch = master
-[submodule "cosmic-workspaces-epoch"]
-    path = cosmic-workspaces-epoch
-    url = https://github.com/pop-os/cosmic-workspaces-epoch/
+[submodule "armyknife-notifications"]
+    path = armyknife-notifications
+    url = https://github.com/armyknifelabs-tools/armyknife-notifications
     branch = master
-[submodule "cosmic-notifications"]
-    path = cosmic-notifications
-    url = https://github.com/pop-os/cosmic-notifications
+[submodule "armyknife-icons"]
+    path = armyknife-icons
+    url = https://github.com/armyknifelabs-tools/armyknife-icons
     branch = master
-[submodule "cosmic-icons"]
-    path = cosmic-icons
-    url = https://github.com/pop-os/cosmic-icons.git
+[submodule "armyknife-greeter"]
+    path = armyknife-greeter
+    url = https://github.com/armyknifelabs-tools/armyknife-greeter
     branch = master
-[submodule "cosmic-greeter"]
-    path = cosmic-greeter
-    url = https://github.com/pop-os/cosmic-greeter
+[submodule "armyknife-screenshot"]
+    path = armyknife-screenshot
+    url = https://github.com/armyknifelabs-tools/armyknife-screenshot
     branch = master
-[submodule "cosmic-screenshot"]
-    path = cosmic-screenshot
-    url = https://github.com/pop-os/cosmic-screenshot
+[submodule "armyknife-edit"]
+    path = armyknife-edit
+    url = https://github.com/armyknifelabs-tools/armyknife-edit
     branch = master
-[submodule "cosmic-edit"]
-    path = cosmic-edit
-    url = https://github.com/pop-os/cosmic-edit
+[submodule "armyknife-term"]
+    path = armyknife-term
+    url = https://github.com/armyknifelabs-tools/armyknife-term
     branch = master
-[submodule "cosmic-term"]
-    path = cosmic-term
-    url = https://github.com/pop-os/cosmic-term.git
+[submodule "armyknife-randr"]
+    path = armyknife-randr
+    url = https://github.com/armyknifelabs-tools/armyknife-randr
     branch = master
-[submodule "cosmic-randr"]
-    path = cosmic-randr
-    url = https://github.com/pop-os/cosmic-randr.git
+[submodule "armyknife-files"]
+    path = armyknife-files
+    url = https://github.com/armyknifelabs-tools/armyknife-files
     branch = master
-[submodule "cosmic-files"]
-    path = cosmic-files
-    url = https://github.com/pop-os/cosmic-files.git
+[submodule "armyknife-store"]
+    path = armyknife-store
+    url = https://github.com/armyknifelabs-tools/armyknife-store
     branch = master
-[submodule "cosmic-store"]
-    path = cosmic-store
-    url = https://github.com/pop-os/cosmic-store.git
+[submodule "armyknife-wallpapers"]
+    path = armyknife-wallpapers
+    url = https://github.com/armyknifelabs-tools/armyknife-wallpapers
     branch = master
-[submodule "cosmic-wallpapers"]
-	path = cosmic-wallpapers
-	url = https://github.com/pop-os/cosmic-wallpapers.git
-	branch = master
-[submodule "cosmic-idle"]
-	path = cosmic-idle
-	url = https://github.com/pop-os/cosmic-idle.git
-	branch = master
-[submodule "cosmic-player"]
-	path = cosmic-player
-	url = https://github.com/pop-os/cosmic-player.git
-	branch = master
-[submodule "cosmic-initial-setup"]
-	path = cosmic-initial-setup
-	url = https://github.com/pop-os/cosmic-initial-setup
-	branch = master
-[submodule "pop-launcher"]
-	path = pop-launcher
-	url = https://github.com/pop-os/launcher.git
-	branch = master
+[submodule "armyknife-idle"]
+    path = armyknife-idle
+    url = https://github.com/armyknifelabs-tools/armyknife-idle
+    branch = master
+[submodule "armyknife-player"]
+    path = armyknife-player
+    url = https://github.com/armyknifelabs-tools/armyknife-player
+    branch = master
+[submodule "armyknife-initial-setup"]
+    path = armyknife-initial-setup
+    url = https://github.com/armyknifelabs-tools/armyknife-initial-setup
+    branch = master
+[submodule "armyknife-launcher-backend"]
+    path = armyknife-launcher-backend
+    url = https://github.com/armyknifelabs-tools/armyknife-launcher-backend
+    branch = master
